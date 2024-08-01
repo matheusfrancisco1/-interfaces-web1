@@ -1,0 +1,14 @@
+.container{
+    background-color: #ccc;
+    height: 200px;
+    display: flex;
+    flex-direction: column-reverse;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.item{
+    background:#333;
+    color: #fff;
+    padding: 20px;
+    margin: 5px;
+}
